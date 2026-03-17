@@ -13,7 +13,6 @@ manab = {
     "pronouns": "He/Him",
     "location": "India 🇮🇳",
     "education": "Bachelors in Mathematics and Computer Science",
-    "interests": ["Artificial Intelligence", "Machine Learning", "GenAI"],
     "roles": [
         "Data Analyst",
         "UX/UI Designer",
@@ -21,7 +20,8 @@ manab = {
         "MERN Stack Developer",
         "Flutter Developer"
     ],
-    "fun_fact": "I love turning data and ideas into impactful digital products 🚀"
+    "interests": ["AI", "Machine Learning", "GenAI", "System Design"],
+    "fun_fact": "I enjoy building products that combine design, data and intelligence 🚀"
 }
 ```
 
@@ -42,15 +42,15 @@ manab = {
 ### 🌐 Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
 ---
 
-### ⚙️ Backend & Database
+### ⚙️ Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
@@ -65,12 +65,12 @@ manab = {
 ### 🤖 AI / ML / GenAI
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![ScikitLearn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge\&logo=opencv\&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-AI-blue?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-AI-purple?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-GenAI-blue?style=for-the-badge)
 
 ---
 
@@ -81,28 +81,36 @@ manab = {
 
 ---
 
-### ⚙️ DevOps & Tools
+### ⚙️ Dev Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
+![GoogleCloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
 
 ---
 
 # 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
 
 ---
 
 # 🤝 Connect With Me
 
-📧 Email: [manabkumar102@gmail.com](mailto:manabkumar102@gmail.com)
+<p align="center">
 
-💼 LinkedIn: https://linkedin.com/in/manabiitp
+<a href="mailto:manabkumar102@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/manabiitp">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
@@ -115,3 +123,5 @@ manab = {
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&duration=6000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Student+%40+IIT+Patna">
 
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=120&section=footer"/>
