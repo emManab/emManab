@@ -1,8 +1,8 @@
 # 👋 Hey there! I'm Manab
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25\&duration=3000\&color=36BCF7\&center=true\&vCenter=true\&width=500\&lines=Data+Analytics+Enthusiast;Machine+Learning+Explorer;Building+with+Python+%26+SQL)
-
-![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=36BCF7&center=true&vCenter=true&width=650&lines=Data+Science+%7C+AI+Enthusiast;UX%2FUI+Designer+%7C+3D+Artist;MERN+Stack+%7C+Flutter+Developer;Building+with+Machine+Learning+%26+GenAI;Student+at+Indian+Institute+of+Technology%2C+Patna">
+</p>
 
 ---
 
@@ -12,63 +12,59 @@
 manab = {
     "pronouns": "He/Him",
     "location": "India 🇮🇳",
-    "education": "BS Computer Science & Data Analytics",
-    "currentFocus": ["Machine Learning", "Data Analytics", "Cloud"],
-    "askMeAbout": ["Python", "SQL", "Data Visualization", "ML Models"],
-    "funFact": "I enjoy finding patterns in data more than solving puzzles 📊"
+    "education": "Bachelors in Mathematics and Computer Science",
+    "interests": ["AI", "Machine Learning", "GenAI", "System Design"],
+    "roles": [
+        "Data Analyst",
+        "UX/UI Designer",
+        "3D Artist",
+        "MERN Stack Developer",
+        "Flutter Developer"
+    ],
+    "fun_fact": "I love turning data and ideas into beautiful products 🚀"
 }
 ```
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Languages
+## 💻 Programming Languages
 
-Python • SQL • Java
+Python • JavaScript • SQL • Java • C++
 
-### 📊 Data Science & Analytics
+## 🌐 Web Development
 
-Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn
+React • Next.js • Node.js • Express.js • MongoDB • MySQL
 
-### ⚙️ Tools
+## 📱 App Development
 
-Jupyter Notebook • Git • MySQL • SQLite • VS Code • Linux
+Flutter • React Native
 
-### ☁️ Cloud
+## 🎨 Design & Creative
 
-Google Cloud Platform
+Figma • UI/UX Design • 3D Modelling • Blender
 
----
+## 🤖 AI / ML / GenAI
 
-## 📊 GitHub Analytics
+Machine Learning
+Deep Learning
+LLMs
+RAG (Retrieval Augmented Generation)
+LangChain
+OpenAI API
+Transformers
+Pandas
+NumPy
+Scikit-learn
+TensorFlow
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+## ☁️ Tools & Platforms
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
-
----
-
-## 🎯 Competitive Programming
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue?style=for-the-badge\&logo=codeforces)](https://codeforces.com/)
-
----
-
-## 🤝 Connect With Me
-
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
-
-💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-
-🌐 Portfolio: Coming Soon
+Git • Linux • Docker • Jupyter Notebook • VS Code • Google Cloud
 
 ---
 
-## 💭 Random Dev Quote
+# 📊 GitHub Analytics
 
-*"Without data, you're just another person with an opinion."* — W. Edwards Deming
-
----
-
-⭐ Thanks for visiting! Let's connect and build something amazing together! 🚀
+![stats](https://github-readme-stats.vercel.app/api?us)
