@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 ```python
 manab = {
@@ -100,5 +100,7 @@ Git • Linux • Docker • Jupyter Notebook • VS Code • Google Cloud
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=36BCF7&center=true&vCenter=true&width=700&lines=Student+%40+Indian+Institute+Of+Technology%2C+Patna">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&duration=6000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Student+%40+Indian+Institute+Of+Technology%2C+Patna">
+
 </p>
