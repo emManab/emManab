@@ -21,7 +21,7 @@ manab = {
         "Flutter Developer",
         "Game Developer (Unity)"
     ],
-    "interests": ["Artificial Intelligence", "Machine Learning", "GenAI", "Game Development"],
+    "interests": ["AI", "Machine Learning", "GenAI", "Game Development"],
     "fun_fact": "I love building things that combine design, data and intelligence 🚀"
 }
 ```
@@ -110,6 +110,16 @@ manab = {
 <a href="https://linkedin.com/in/manabiitp">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+</p>
+
+---
+
+# 💭 Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </p>
 
