@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Manab
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+%7C+Data+Science+Enthusiast;UX%2FUI+Designer+%7C+3D+Artist;MERN+Stack+%7C+Flutter+Developer;Building+with+Machine+Learning+%26+GenAI">
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=36BCF7&center=true&vCenter=true&width=750&lines=Curious+to+Explore+All+Things+🚀;AI+%7C+Data+Science+Enthusiast+🤖;UX%2FUI+Designer+%7C+3D+Artist+🎨;MERN+Stack+%7C+Flutter+Developer+💻;Game+Developer+Explorer+(Unity+Engine)+🎮;Building+with+Machine+Learning+%26+GenAI+⚡">
 </p>
 
 ---
@@ -18,10 +18,11 @@ manab = {
         "UX/UI Designer",
         "3D Artist",
         "MERN Stack Developer",
-        "Flutter Developer"
+        "Flutter Developer",
+        "Game Developer (Unity)"
     ],
-    "interests": ["AI", "Machine Learning", "GenAI", "System Design"],
-    "fun_fact": "I enjoy building products that combine design, data and intelligence 🚀"
+    "interests": ["Artificial Intelligence", "Machine Learning", "GenAI", "Game Development"],
+    "fun_fact": "I love building things that combine design, data and intelligence 🚀"
 }
 ```
 
@@ -39,16 +40,10 @@ manab = {
 
 ---
 
-### 🌐 Frontend
+### 🌐 Web Development
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-
----
-
-### ⚙️ Backend
-
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
@@ -74,7 +69,13 @@ manab = {
 
 ---
 
-### 🎨 Design & Creative
+### 🎮 Game Development
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge\&logo=unity\&logoColor=white)
+
+---
+
+### 🎨 Design
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge\&logo=blender\&logoColor=white)
