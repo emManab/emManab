@@ -138,4 +138,3 @@ manab = {
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=120&section=footer"/>
- i want a amaxing UX/UI its kinda boring enhance ux/ui and Student @ IIT Patna should be glowing like something enhance overall UI make it go crazyy
