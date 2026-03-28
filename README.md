@@ -93,11 +93,11 @@ manab = {
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
-![stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=emmanab&show_icons=true&theme=radical)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanab&layout=compact&theme=radical)
 
 ---
 
